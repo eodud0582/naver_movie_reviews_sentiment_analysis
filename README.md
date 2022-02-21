@@ -11,5 +11,5 @@
   - https://github.com/e9t/nsmc
 
 ## 프로젝트 결과
-- CountVectorizer를 사용한 경우와 비교하여, TF-IDF를 사용했을 때가 더 높은 성능을 보였습니다.
-- Accuracy: 0.8412 / AUC: 0.9214
+- CountVectorizer를 사용한 경우와 비교하여, **TF-IDF**를 사용했을 때가 더 높은 성능을 보였습니다.
+- **Accuracy: 0.8412 / AUC: 0.9214**
